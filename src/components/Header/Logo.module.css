@@ -1,0 +1,23 @@
+.logo_title {
+    color: rgb(0, 119, 255);
+    -webkit-text-stroke-color: rgb(0, 74, 158);
+    -webkit-text-stroke-width: 1.5px;
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-weight: bold;
+    margin-top: 0;
+}
+
+.character {
+    font-size: 50px;
+    font-weight: 800;
+    color: rgb(0, 119, 255);
+    -webkit-text-stroke-color: rgb(0, 74, 158);
+    -webkit-text-stroke-width: 1.5px;
+}
+
+.header {
+    max-width: 700px;
+    margin: 0 auto 25px auto;
+    text-align: center;
+    font-size: 30px;
+}
