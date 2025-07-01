@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Rick-Morty-Characters-Api/static/css/main.747dd961.css",
+    "main.js": "/Rick-Morty-Characters-Api/static/js/main.d0591cd0.js",
+    "static/js/453.ebb92d99.chunk.js": "/Rick-Morty-Characters-Api/static/js/453.ebb92d99.chunk.js",
+    "index.html": "/Rick-Morty-Characters-Api/index.html",
+    "main.747dd961.css.map": "/Rick-Morty-Characters-Api/static/css/main.747dd961.css.map",
+    "main.d0591cd0.js.map": "/Rick-Morty-Characters-Api/static/js/main.d0591cd0.js.map",
+    "453.ebb92d99.chunk.js.map": "/Rick-Morty-Characters-Api/static/js/453.ebb92d99.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.747dd961.css",
+    "static/js/main.d0591cd0.js"
+  ]
+}
